@@ -1,0 +1,29 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Microsoft.EntityFrameworkCore/8.0.2": {},
+      "Microsoft.EntityFrameworkCore.SqlServer/8.0.2": {}
+    }
+  },
+  "libraries": {
+    "Microsoft.EntityFrameworkCore/8.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6QlvBx4rdawW3AkkCsGVV+8qRLk34aknV5JD40s1hbVR18vKmT2KDl2DW83nHcPX7f4oebQ3BD1UMNCI/gkE0g==",
+      "path": "microsoft.entityframeworkcore/8.0.2",
+      "hashPath": "microsoft.entityframeworkcore.8.0.2.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.SqlServer/8.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tAS5mYr/mwCXZVC5dyJlzdKHK0MLU0TAxNcc30xi7XLju8DE3S0Y206Yfi/MyuzLjulQRq9n2vjieeCxOnQfkg==",
+      "path": "microsoft.entityframeworkcore.sqlserver/8.0.2",
+      "hashPath": "microsoft.entityframeworkcore.sqlserver.8.0.2.nupkg.sha512"
+    }
+  }
+}
